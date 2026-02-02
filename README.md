@@ -1,1 +1,1 @@
-"# Belajar Git & GitHub" 
+print("semester 2")
